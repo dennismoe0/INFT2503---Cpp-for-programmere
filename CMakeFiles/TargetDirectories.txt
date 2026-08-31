@@ -1,0 +1,3 @@
+/Users/dennismoe/github/INFT2503 - Cpp for programmere/CMakeFiles/hello.dir
+/Users/dennismoe/github/INFT2503 - Cpp for programmere/CMakeFiles/edit_cache.dir
+/Users/dennismoe/github/INFT2503 - Cpp for programmere/CMakeFiles/rebuild_cache.dir
