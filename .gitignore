@@ -1,2 +1,12 @@
+# Ignore everything without an extension (compiled binaries like 1, 2, main)
+*
+!*.*
+!*/
+
+# Must come after the rules above: last matching rule wins
 build/
+*.out
+*.o
+*.dSYM/
+*.tar.gz
 .DS_Store
