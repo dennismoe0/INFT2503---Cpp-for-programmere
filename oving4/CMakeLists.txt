@@ -3,6 +3,5 @@ project(oving4)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++1y -Wall -Wextra")
 
-add_executable(circle    main.cpp Circle.cpp)
-add_executable(commodity commodity_main.cpp commodity.cpp)
-add_executable(strings   string_main.cpp)
+add_executable(1    1.cpp)
+add_executable(2    2.cpp)
