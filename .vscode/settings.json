@@ -1,0 +1,10 @@
+{
+  "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+  "cmake.sourceDirectory": [
+    "${workspaceFolder}/oving1",
+    "${workspaceFolder}/oving2",
+    "${workspaceFolder}/oving3",
+    "${workspaceFolder}/oving4"
+  ],
+  "cmake.buildDirectory": "${sourceDirectory}/build"
+}
