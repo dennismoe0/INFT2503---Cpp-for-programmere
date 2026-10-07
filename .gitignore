@@ -10,3 +10,4 @@ build/
 *.dSYM/
 *.tar.gz
 .DS_Store
+disregard/
